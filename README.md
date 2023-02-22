@@ -1,5 +1,5 @@
 # hospital_API
-//design an API for the doctors of a Hospital which has been allocated by the govt for testing and quarantine + well being of COVID-19 patients
+//design an API for the doctors of a Hospital which has been allocated for testing and quarantine + well being of COVID-19 patients
 
 //Download this code and open it through vsCode
 // run npm i in terminal for installing all the node modules used in this file
